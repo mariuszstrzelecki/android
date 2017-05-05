@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fat Burning Pulse</string>
+    <string name="buttonCalculate_text">Oblicz</string>
+    <string name="editTextAge_text">Podaj swój wiek</string>
+    <string name="radioButtonFemale_text">Kobieta</string>
+    <string name="radioButtonMale_text">Mężczyzna</string>
+    <string name="textInfo_text">Twoje optymalne tętno do spalania tłuszczu jest w zakresie:</string>
+    <string name="bpm">uderzeń na minutę</string>
+</resources>

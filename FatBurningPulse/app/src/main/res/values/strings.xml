@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fat Burning Pulse</string>
+    <string name="radioButtonFemale_text">Female</string>
+    <string name="radioButtonMale_text">Male</string>
+    <string name="editTextAge_text">Your age?</string>
+    <string name="buttonCalculate_text">Calculate</string>
+    <string name="textInfo_text">Your Fat Burning Pulse is:</string>
+    <string name="textResult_text"></string>
+    <string name="bpm">BPM</string>
+</resources>
